@@ -124,6 +124,3 @@ The confusion matrix showed that the model was more effective at identifying rea
 
 The project also experimented with transformer-based vision-language models using HuggingFace pipelines. A Vision Transformer (ViT) model was used to evaluate how transformer architectures interpret generated facial images compared to CNN-based feature extraction approaches.
 
-Harini Kuchibhotla
-
-GitHub: https://github.com/harinijk
